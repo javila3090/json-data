@@ -33,7 +33,7 @@
       },
       "destination_charges": {
         "CFS": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "1000",
           "currency": "USD",
           "units": "5",
@@ -42,7 +42,7 @@
           "total_converted": {}
         },
         "THC": {
-          "20dry": "2",
+          "equipment": "40' Dry",
           "amount": "1000",
           "currency": "USD",
           "units": "5",
@@ -51,7 +51,7 @@
           "total_converted": {}
         },
         "CDD": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "1000",
           "currency": "USD",
           "units": "5",
@@ -62,7 +62,7 @@
       },
       "freight_charges": {
         "WRS": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "4000",
           "currency": "USD",
           "units": "5",
@@ -71,7 +71,7 @@
           "total_converted": {}
         },
         "CGS": {
-          "20dry": "2",
+          "equipment": "40' Dry",
           "amount": "4000",
           "currency": "USD",
           "units": "5",
@@ -115,7 +115,7 @@
       },
       "destination_charges": {
         "CFS": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "1000",
           "currency": "USD",
           "units": "5",
@@ -124,7 +124,7 @@
           "total_converted": {}
         },
         "THC": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "1000",
           "currency": "USD",
           "units": "5",
@@ -133,7 +133,7 @@
           "total_converted": {}
         },
         "CDD": {
-          "20dry": "2",
+          "equipment": "40' Dry",
           "amount": "1000",
           "currency": "USD",
           "units": "5",
@@ -144,7 +144,7 @@
       },
       "freight_charges": {
         "WRS": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "4000",
           "currency": "USD",
           "units": "5",
@@ -153,7 +153,7 @@
           "total_converted": {}
         },
         "CGS": {
-          "20dry": "2",
+          "equipment": "20' Dry",
           "amount": "4000",
           "currency": "USD",
           "units": "5",

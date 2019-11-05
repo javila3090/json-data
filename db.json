@@ -34,60 +34,60 @@
    "origin_charges": {
      "THC": {
       "20DRY": {
-        "AMOUNT": "2000",
-        "CURRENCY": "USD",
-        "UNITS": "2",
-        "CALCULATION_TYPE": "PER TEU",
-        "TOTAL": "4000",
-        "TOTAL_CONVERTED": {}
+        "amount": "2000",
+        "currency": "USD",
+        "units": "2",
+        "calculation_type": "PER TEU",
+        "total": "4000",
+        "total_converted": {}
       },
       "40DRY": {
-        "AMOUNT": "3000",
-        "CURRENCY": "USD",
-        "UNITS": "2",
-        "CALCULATION_TYPE": "PER TEU",
-        "TOTAL": "6000",
-        "TOTAL_CONVERTED": {}
+        "amount": "3000",
+        "currency": "USD",
+        "units": "2",
+        "calculation_type": "PER TEU",
+        "total": "6000",
+        "total_converted": {}
        }
       }
      },
      "destination_charges": {
        "THC": {
          "20DRY": {
-          "AMOUNT": "3000",
-          "CURRENCY": "USD",
-          "UNITS": "2",
-          "CALCULATION_TYPE": "PER TEU",
-          "TOTAL": "6000",
-          "TOTAL_CONVERTED": {}
+          "amount": "3000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "6000",
+          "total_converted": {}
          },
          "40DRY": {
-          "AMOUNT": "2000",
-          "CURRENCY": "USD",
-          "UNITS": "2",
-          "CALCULATION_TYPE": "PER TEU",
-          "TOTAL": "4000",
-          "TOTAL_CONVERTED": {}
+          "amount": "2000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "4000",
+          "total_converted": {}
          }
         }
        },
        "freight_charges": {
          "THC": {
           "20DRY": {
-           "AMOUNT": "2000",
-           "CURRENCY": "USD",
-           "UNITS": "2",
-           "CALCULATION_TYPE": "PER TEU",
-           "TOTAL": "4000",
-           "TOTAL_CONVERTED": {}
+           "amount": "2000",
+           "currency": "USD",
+           "units": "2",
+           "calculation_type": "PER TEU",
+           "total": "4000",
+           "total_converted": {}
           },
           "40DRY": {
-           "AMOUNT": "3000",
-           "CURRENCY": "USD",
-           "UNITS": "2",
-           "CALCULATION_TYPE": "PER TEU",
-           "TOTAL": "6000",
-           "TOTAL_CONVERTED": {}
+           "amount": "3000",
+           "currency": "USD",
+           "units": "2",
+           "calculation_type": "PER TEU",
+           "total": "6000",
+           "total_converted": {}
         }
        }
       }

@@ -2,7 +2,7 @@
  "rates": [
   {
     "RATE": {
-      "origin_port": "Townsville, AUTSV",
+      "origin_port": "MONGLA, BDMGL",
       "destination_port": "ZARATE, ARZAE",
       "total": "200000",
       "currency": "USD",

@@ -82,8 +82,8 @@
   },
   {
     "RATE": {
-      "ORIGIN_PORT": "Abu Dhabi, AEAUH",
-      "DESTINATION_PORT": "ZARATE, ARZAE",
+      "ORIGIN_PORT": "Fremantle, AUFRE",
+      "DESTINATION_PORT": "Melbourne, AUMEL",
       "TOTAL": "2000",
       "CURRENCY": "USD",
       "VALIDITY_START": "2019-11-06",

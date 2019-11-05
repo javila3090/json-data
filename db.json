@@ -1,145 +1,165 @@
 {
  "rates": [
   {
-    "RATE": {
-      "ORIGIN_PORT": "Abu Dhabi, AEAUH",
-      "DESTINATION_PORT": "ZARATE, ARZAE",
-      "TOTAL": "2000",
-      "CURRENCY": "USD",
-      "VALIDITY_START": "2019-11-06",
-      "VALIDITY_END": "2019-11-30",
-      "ACTION": "Show",
-      "SHOW": false,
-      "SCHEDULE": {
-        "TRANSIT_TIME": "10",
-        "TYPE": "Direct",
-        "VIA": "Transfer"
+    "rate": {
+      "origin_port": "Abu Dhabi, AEAUH",
+      "destination_port": "ZARATE, ARZAE",
+      "total": "2000",
+      "currency": "USD",
+      "validity_start": "2019-11-06",
+      "validity_end": "2019-11-30",
+      "action": "Show",
+      "show": false,
+      "schedule": {
+        "transit_time": "10",
+        "type": "Direct",
+        "via": "Transfer"
       },
-      "OCEAN_FREIGHT": {
-        "20DRY": {
-          "AMOUNT": "2000",
-          "CURRENCY": "USD",
-          "UNITS": "10",
-          "TOTAL": "20000",
-          "TOTAL_CONVERTED": {}
+      "ocean_freight": {
+        "20Dry": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "10",
+          "total": "20000",
+          "total_converted": {}
         },
-        "40DRY": {
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "10",
-          "TOTAL": "10000",
-          "TOTAL_CONVERTED": {}
+        "40Dry": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "10",
+          "total": "20000",
+          "total_converted": {}
         }
       },
-      "DESTINATION_CHARGES": {
+      "destination_charges": {
         "CFS": {
-          "20DRY": "2",
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "2000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "2000",
+          "total_converted": {}
         },
         "THC": {
-          "20DRY": "2",
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "2000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "2000",
+          "total_converted": {}
         },
         "CDD": {
-          "20DRY": "2",
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "2000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "2000",
+          "total_converted": {}
         }
       },
-      "FREIGHT_CHARGES": {
+      "freight_charges": {
         "WRS": {
-          "20DRY": "2",
-          "AMOUNT": "4000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "8000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "4000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER TEU",
+          "total": "8000",
+          "total_converted": {}
         },
         "CGS": {
-          "20DRY": "2",
-          "AMOUNT": "4500",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER TEU",
-          "TOTAL": "8500",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "4000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER TEU",
+          "total": "8000",
+          "total_converted": {}
         }
       }
     }
   },
   {
     "RATE": {
-      "ORIGIN_PORT": "Fremantle, AUFRE",
-      "DESTINATION_PORT": "Melbourne, AUMEL",
-      "TOTAL": "2000",
-      "CURRENCY": "USD",
-      "VALIDITY_START": "2019-11-06",
-      "VALIDITY_END": "2019-11-30",
-      "ACTION": "Show",
-      "SHOW": false,
-      "SCHEDULE": {
-        "TRANSIT_TIME": "10",
-        "TYPE": "Direct",
-        "VIA": "Transfer"
+      "origin_port": "Melbourne, AUMEL",
+      "destination_port": "Chittagong, BDCGP",
+      "total": "2000",
+      "currency": "USD",
+      "validity_start": "2019-11-06",
+      "validity_end": "2019-11-30",
+      "action": "Show",
+      "show": false,
+      "schedule": {
+        "transit_time": "10",
+        "type": "Direct",
+        "via": "Transfer"
       },
-      "OCEAN_FREIGHT": {
-        "20DRY": {
-          "AMOUNT": "2000",
-          "CURRENCY": "USD",
-          "UNITS": "10",
-          "TOTAL": "20000",
-          "TOTAL_CONVERTED": {}
+      "ocean_freight": {
+        "20Dry": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "10",
+          "total": "20000",
+          "total_converted": {}
         },
-        "40DRY": {
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "10",
-          "TOTAL": "10000",
-          "TOTAL_CONVERTED": {}
+        "40Dry": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "10",
+          "total": "20000",
+          "total_converted": {}
         }
       },
-      "DESTINATION_CHARGES": {
+      "destination_charges": {
         "CFS": {
-          "20DRY": "2",
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "2000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "2000",
+          "total_converted": {}
         },
         "THC": {
-          "20DRY": "2",
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "2000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "2000",
+          "total_converted": {}
         },
         "CDD": {
-          "20DRY": "2",
-          "AMOUNT": "1000",
-          "CURRENCY": "USD",
-          "UNITS": "5",
-          "CALCULATION_TYPE": "PER CONTAINER",
-          "TOTAL": "2000",
-          "TOTAL_CONVERTED": {}
+          "20dry": "2",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "2000",
+          "total_converted": {}
+        }
+      },
+      "freight_charges": {
+        "WRS": {
+          "20dry": "2",
+          "amount": "4000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER TEU",
+          "total": "8000",
+          "total_converted": {}
+        },
+        "CGS": {
+          "20dry": "2",
+          "amount": "4000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER TEU",
+          "total": "8000",
+          "total_converted": {}
         }
       }
     }

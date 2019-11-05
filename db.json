@@ -49,6 +49,7 @@
           "calculation_type": "PER CONTAINER",
           "total": "5000",
           "total_converted": {}
+       },
      },
      "destination_charges": {
         "CFS": {

@@ -88,6 +88,7 @@
            "calculation_type": "PER TEU",
            "total": "6000",
            "total_converted": {}
+         }
         },
         "WRS": {
          "20DRY": {
@@ -97,7 +98,6 @@
           "calculation_type": "PER TEU",
           "total": "4000",
           "total_converted": {}
-        }
        }
       }
      }

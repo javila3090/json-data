@@ -1,5 +1,16 @@
 {
   "rates": [
-    
-  ],
+    {
+      "RATE": {
+      "ORIGIN_PORT": {},
+      "DESTINATION_PORT": {},
+      "TOTAL": {},
+      "CURRENCY": {},
+      "SCHEDULE": {
+        "TRANSIT_TIME": {},
+        "TYPE": {},
+        "VIA": {}
+      },
+    }
+  ]
 }

@@ -88,10 +88,20 @@
            "calculation_type": "PER TEU",
            "total": "6000",
            "total_converted": {}
+        },
+        "WRS": {
+         "20DRY": {
+          "amount": "2000",
+          "currency": "USD",
+          "units": "2",
+          "calculation_type": "PER TEU",
+          "total": "4000",
+          "total_converted": {}
         }
        }
       }
      }
-    } 
+    }
+   } 
   ]
 }

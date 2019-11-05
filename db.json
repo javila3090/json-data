@@ -4,7 +4,7 @@
    "RATE": {
      "origin_port": "MONGLA, BDMGL",
      "destination_port": "ZARATE, ARZAE",
-     "total": "200000",
+     "total": "20000",
      "currency": "USD",
      "validity_start": "2019-11-06",
      "validity_end": "2019-11-30",

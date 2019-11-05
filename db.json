@@ -32,41 +32,43 @@
      }
    },
    "origin_charges": {
-    "THC": {
-     "20DRY": {
-       "AMOUNT": {},
-       "CURRENCY": {},
-       "UNITS": {},
-       "CALCULATION_TYPE": {},
-       "TOTAL": {},
-       "TOTAL_CONVERTED": {}
-     },
-     "40DRY": {
-       "AMOUNT": {},
-       "CURRENCY": {},
-       "UNITS": {},
-       "CALCULATION_TYPE": {},
-       "TOTAL": {},
-       "TOTAL_CONVERTED": {}
+     "THC": {
+      "20DRY": {
+        "AMOUNT": {},
+        "CURRENCY": {},
+        "UNITS": {},
+        "CALCULATION_TYPE": {},
+        "TOTAL": {},
+        "TOTAL_CONVERTED": {}
+      },
+      "40DRY": {
+        "AMOUNT": {},
+        "CURRENCY": {},
+        "UNITS": {},
+        "CALCULATION_TYPE": {},
+        "TOTAL": {},
+        "TOTAL_CONVERTED": {}
+       }
       }
      },
      "destination_charges": {
-      "THC": {
-        "20DRY": {
-         "AMOUNT": {},
-         "CURRENCY": {},
-         "UNITS": {},
-         "CALCULATION_TYPE": {},
-         "TOTAL": {},
-         "TOTAL_CONVERTED": {}
-        },
-        "40DRY": {
-         "AMOUNT": {},
-         "CURRENCY": {},
-         "UNITS": {},
-         "CALCULATION_TYPE": {},
-         "TOTAL": {},
-         "TOTAL_CONVERTED": {}
+       "THC": {
+         "20DRY": {
+          "AMOUNT": {},
+          "CURRENCY": {},
+          "UNITS": {},
+          "CALCULATION_TYPE": {},
+          "TOTAL": {},
+          "TOTAL_CONVERTED": {}
+         },
+         "40DRY": {
+          "AMOUNT": {},
+          "CURRENCY": {},
+          "UNITS": {},
+          "CALCULATION_TYPE": {},
+          "TOTAL": {},
+          "TOTAL_CONVERTED": {}
+         }
         }
        },
        "freight_charges": {
@@ -78,20 +80,18 @@
            "CALCULATION_TYPE": {},
            "TOTAL": {},
            "TOTAL_CONVERTED": {}
-         },
-         "40DRY": {
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {}
-         }
+          },
+          "40DRY": {
+           "AMOUNT": {},
+           "CURRENCY": {},
+           "UNITS": {},
+           "CALCULATION_TYPE": {},
+           "TOTAL": {},
+           "TOTAL_CONVERTED": {}
         }
        }
       }
      }
-    }
-   }
+    } 
   ]
 }

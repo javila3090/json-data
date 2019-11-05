@@ -2,166 +2,140 @@
  "rates": [
   {
     "RATE": {
-      "ORIGIN_PORT": {},
-      "DESTINATION_PORT": {},
-      "TOTAL": {},
-      "CURRENCY": {},
+      "ORIGIN_PORT": "Abu Dhabi, AEAUH",
+      "DESTINATION_PORT": "ZARATE, ARZAE",
+      "TOTAL": "2000",
+      "CURRENCY": "USD",
+      "VALIDITY_START": "2019-11-06",
+      "VALIDITY_END": "2019-11-30",
       "SCHEDULE": {
-        "TRANSIT_TIME": {},
-        "TYPE": {},
-        "VIA": {}
+        "TRANSIT_TIME": "10",
+        "TYPE": "Direct",
+        "VIA": "Transfer"
       },
       "OCEAN_FREIGHT": {
         "20DRY": {
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "TOTAL": {},
+          "AMOUNT": "2000",
+          "CURRENCY": "USD",
+          "UNITS": "10",
+          "TOTAL": "20000",
           "TOTAL_CONVERTED": {}
         },
         "40DRY": {
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "TOTAL": {},
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "10",
+          "TOTAL": "10000",
           "TOTAL_CONVERTED": {}
         }
       },
       "DESTINATION_CHARGES": {
         "CFS": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "2000",
+          "TOTAL_CONVERTED": {}
         },
         "THC": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "2000",
+          "TOTAL_CONVERTED": {}
         },
         "CDD": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "2000",
+          "TOTAL_CONVERTED": {}
         }
       },
       "FREIGHT_CHARGES": {
         "WRS": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "4000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "8000",
+          "TOTAL_CONVERTED": {}
         },
         "CGS": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "4500",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER TEU",
+          "TOTAL": "8500",
+          "TOTAL_CONVERTED": {}
         }
       }
     }
   },
   {
     "RATE": {
-      "ORIGIN_PORT": {},
-      "DESTINATION_PORT": {},
-      "TOTAL": {},
-      "CURRENCY": {},
+      "ORIGIN_PORT": "Abu Dhabi, AEAUH",
+      "DESTINATION_PORT": "ZARATE, ARZAE",
+      "TOTAL": "2000",
+      "CURRENCY": "USD",
+      "VALIDITY_START": "2019-11-06",
+      "VALIDITY_END": "2019-11-30",
       "SCHEDULE": {
-        "TRANSIT_TIME": {},
-        "TYPE": {},
-        "VIA": {}
+        "TRANSIT_TIME": "10",
+        "TYPE": "Direct",
+        "VIA": "Transfer"
       },
       "OCEAN_FREIGHT": {
         "20DRY": {
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "TOTAL": {},
+          "AMOUNT": "2000",
+          "CURRENCY": "USD",
+          "UNITS": "10",
+          "TOTAL": "20000",
           "TOTAL_CONVERTED": {}
         },
         "40DRY": {
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "TOTAL": {},
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "10",
+          "TOTAL": "10000",
           "TOTAL_CONVERTED": {}
         }
       },
       "DESTINATION_CHARGES": {
         "CFS": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "2000",
+          "TOTAL_CONVERTED": {}
         },
         "THC": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "2000",
+          "TOTAL_CONVERTED": {}
         },
         "CDD": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
-        }
-      },
-      "FREIGHT_CHARGES": {
-        "WRS": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
-        },
-        "CGS": {
-          "20DRY": {},
-          "AMOUNT": {},
-          "CURRENCY": {},
-          "UNITS": {},
-          "CALCULATION_TYPE": {},
-          "TOTAL": {},
-          "TOTAL_CONVERTED": {},
-          "40DRY": {}
+          "20DRY": "2",
+          "AMOUNT": "1000",
+          "CURRENCY": "USD",
+          "UNITS": "5",
+          "CALCULATION_TYPE": "PER CONTAINER",
+          "TOTAL": "2000",
+          "TOTAL_CONVERTED": {}
         }
       }
     }

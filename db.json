@@ -8,6 +8,8 @@
       "CURRENCY": "USD",
       "VALIDITY_START": "2019-11-06",
       "VALIDITY_END": "2019-11-30",
+      "ACTION": "Show",
+      "SHOW": false,
       "SCHEDULE": {
         "TRANSIT_TIME": "10",
         "TYPE": "Direct",
@@ -88,6 +90,8 @@
       "CURRENCY": "USD",
       "VALIDITY_START": "2019-11-06",
       "VALIDITY_END": "2019-11-30",
+      "ACTION": "Show",
+      "SHOW": false,
       "SCHEDULE": {
         "TRANSIT_TIME": "10",
         "TYPE": "Direct",

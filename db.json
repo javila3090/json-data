@@ -67,7 +67,7 @@
           "currency": "USD",
           "units": "5",
           "calculation_type": "PER TEU",
-          "total": "8000",
+          "total": "20000",
           "total_converted": {}
         },
         "CGS": {
@@ -76,7 +76,7 @@
           "currency": "USD",
           "units": "5",
           "calculation_type": "PER TEU",
-          "total": "8000",
+          "total": "20000",
           "total_converted": {}
         }
       }

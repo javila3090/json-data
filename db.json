@@ -31,7 +31,26 @@
           "total_converted": {}
         }
       },
-      "destination_charges": {
+      "origin_charges": {
+        "CFS": {
+          "equipment": "20' Dry",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "5000",
+          "total_converted": {}
+        },
+        "THC": {
+          "equipment": "40' Dry",
+          "amount": "1000",
+          "currency": "USD",
+          "units": "5",
+          "calculation_type": "PER CONTAINER",
+          "total": "5000",
+          "total_converted": {}
+     },
+     "destination_charges": {
         "CFS": {
           "equipment": "20' Dry",
           "amount": "1000",

@@ -1,7 +1,7 @@
 {
  "rates": [
   {
-    "rate": {
+    "RATE": {
       "origin_port": "Abu Dhabi, AEAUH",
       "destination_port": "ZARATE, ARZAE",
       "total": "2000",

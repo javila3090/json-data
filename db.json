@@ -13,7 +13,7 @@
      "schedule": {
       "transit_time": "10",
       "type": "Direct",
-      "via": "CSNA"
+      "via": "Transfer"
      },
      "ocean_freight": {
       "20Dry": {

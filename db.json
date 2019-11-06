@@ -13,8 +13,7 @@
      "schedule": {
       "transit_time": "10",
       "type": "Direct",
-      "via": "CSNA",
-      "remarks": "What light"
+      "via": "CSNA"
      },
      "ocean_freight": {
       "20Dry": {

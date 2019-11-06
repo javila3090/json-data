@@ -14,7 +14,7 @@
      "schedule": {
       "transit_time": "10",
       "type": "Direct",
-      "via": "Transfer"
+      "via": "CHSNA"
      },
      "ocean_freight": {
       "20Dry": {

@@ -104,8 +104,8 @@
      }
     },
    "RATE": {
-     "origin_port": "MAR DEL PLATA, ARMDQ",
-     "destination_port": "ZARATE, ARZAE",
+     "origin_port": "OKLAHOMA, OK, USOKO",
+     "destination_port": "LONDON, GBLON",
      "total": "74000",
      "currency": "USD",
      "validity_start": "2019-11-06",

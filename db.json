@@ -1,4 +1,5 @@
-[
+{
+"rates": [
   {
     "RATE": {
      "origin_port": "MAR DEL PLATA, ARMDQ",
@@ -105,8 +106,8 @@
   },
   {
     "RATE": {
-     "origin_port": "LONDON, GBLON",
-     "destination_port": "SASKATOON, CASAK",
+     "origin_port": "MAR DEL PLATA, ARMDQ",
+     "destination_port": "ZARATE, ARZAE",
      "total": "74000",
      "currency": "USD",
      "validity_start": "2019-11-06",
@@ -208,3 +209,4 @@
     }
   }
 ]
+}
